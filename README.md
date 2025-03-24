@@ -40,14 +40,6 @@ python run.py
 - Final results: `final_output.csv`
 - Contains: `Job ID 1`, `Job ID 2`, `Similarity Score`
 
-## ⚙️ REST API
-- `POST /find_duplicates/`
-```json
-{
-  "description": "Senior data scientist with Python and ML experience"
-}
-```
-
 ## ✅ Features
 - Sentence embeddings using `all-MiniLM-L6-v2`
 - FAISS for fast nearest neighbor search
