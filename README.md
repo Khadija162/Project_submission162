@@ -2,7 +2,7 @@
 
 # 🧠 Job Post Duplicate Detection with Vector Search
 
-This project identifies duplicate job postings using text embeddings and FAISS vector search. It uses sentence-transformers to compute embeddings and FastAPI to expose a REST API.
+This project identifies duplicate job postings using text embeddings and FAISS vector search. It uses sentence-transformers to compute embeddings.
 
 ## 📦 Project Structure
 ```
