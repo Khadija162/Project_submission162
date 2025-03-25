@@ -51,4 +51,3 @@ python run.py
 - ✅ Embedding & FAISS index saving
 - ✅ Evaluation metrics
 - ✅ Final output: sample similar job pairs
-# Project_submission16234
