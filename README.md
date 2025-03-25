@@ -16,7 +16,6 @@ This project identifies duplicate job postings using text embeddings and FAISS v
 ├── .env.example
 ├── run.py                     # Full pipeline runner
 ├── final_output.csv           # Sample job_id pairs & similarity
-├── job_embeddings.pkl         # Embedding cache (not committed)
 └── notebooks/
     └── 01_data_exploration.ipynb
 ```
